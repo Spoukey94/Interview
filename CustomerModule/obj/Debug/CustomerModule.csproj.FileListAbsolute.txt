@@ -18,3 +18,24 @@ C:\Users\tudor\documents\visual studio 2017\Projects\CustomerModule\CustomerModu
 C:\Users\tudor\documents\visual studio 2017\Projects\CustomerModule\CustomerModule\bin\Debug\CustomerModule.application
 C:\Users\tudor\documents\visual studio 2017\Projects\CustomerModule\CustomerModule\obj\Debug\CustomerModule.exe.manifest
 C:\Users\tudor\documents\visual studio 2017\Projects\CustomerModule\CustomerModule\obj\Debug\CustomerModule.application
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\DBcustomer.mdf
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\DBcustomer_log.ldf
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\CustomerModule.exe.config
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\CustomerModule.exe.manifest
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\CustomerModule.application
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\CustomerModule.exe
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\bin\Debug\CustomerModule.pdb
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\MainWindow.g.cs
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\App.g.cs
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule_Content.g.cs
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule_MarkupCompile.cache
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule_MarkupCompile.lref
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\MainWindow.baml
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.g.resources
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.Properties.Resources.resources
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.csproj.GenerateResource.Cache
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.exe.manifest
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.application
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.exe
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.pdb
+C:\Users\tudor\Downloads\Interview-master\CustomerModule\obj\Debug\CustomerModule.csprojResolveAssemblyReference.cache

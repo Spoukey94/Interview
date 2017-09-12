@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CustomerModule.exe" size="16796128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CustomerModule.exe" size="19936">
       <assemblyIdentity name="CustomerModule" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6oXud0YRbLFM2IxUNiq/mbqEH0VMRrmBusiUPytnYdc=</dsig:DigestValue>
+        <dsig:DigestValue>9vwlGpe1Tzx+cy8lztyZq8eUAwJ1EFglw7Q3M9RAO90=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="CustomerModule.exe.config" size="394">
+  <file name="CustomerModule.exe.config" size="386">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>D2UACy1P4JzJzuOXtQQ9H0BkitZifx7avJMV3OEM6ak=</dsig:DigestValue>
+      <dsig:DigestValue>b+iQqVKytMCFbKcB0/8mFOu6UUUD6glU9XT5KsP6cEs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="DBcustomer.mdf" size="8388608" writeableType="applicationData">
